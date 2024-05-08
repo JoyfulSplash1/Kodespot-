@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Joy's Portfolio</title>
+  </head>
+  <body>
+    <h1>My Personal Portfolio</h1>
+    <div class="bio">
+      <img src="https://firebasestorage.googleapis.com/v0/b/dcgupdated.appspot.com/o/files%2FIMG-20240508-WA0336.jpg?alt=media&token=adaaa2e5-27d7-4eec-9dd9-82cc2bcaf82b"My Picture" />
+      <p>
+        My name is <b>Owoicho Joy</b>, and I am 24 years old.   I am an undergraduate of Fuoye, studying Computer science .
+I'm an highly-skilled full-stack developer with over Ten years of experience in React development. I am proficient in translating designs into high-quality code and implementing highly-responsive user interface components with React concepts. My primary focus is on web and mobile development. I am keen on writing clean and reusable code using best practices.
+
+      </p>
+    </div>
+    <div>
+      <h2>Skills</h2>
+      <ul> <li>JavaScript</li>
+        <li> CSS</li>
+        <li>  HTML5 </li>
+                </ul>
+       </div>
+In terms of experience, I have worked on various fields such as <ol>
+        <li> <b>Web shop</b></li>
+        <li> <b>Company Advertising</b></li>
+        <li> <b> Web Scraping </b></li>
+      </ol>
+        I am dedicated to learning for Self development and also acquire skills and be proficient in them
+      </p>
+    </div>
+  </body>
+</html>
